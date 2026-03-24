@@ -1,10 +1,8 @@
-Simple Terraform AWS Production Script
-
-
 # Terraform AWS Production Infrastructure
 
 ## Overview
 This project provisions a production-ready AWS infrastructure using Terraform.
+Simple Terraform AWS Production Script
 
 ## Features
 - VPC with networking
@@ -21,7 +19,9 @@ This project provisions a production-ready AWS infrastructure using Terraform.
 
 ## How to Run
 terraform init
+
 terraform plan
+
 terraform apply
 
 ## Architecture
